@@ -10,7 +10,7 @@ I create code for people, sometimes i get in trouble for it, other times i get p
 
 Below is a list of programming languages, softwares and tools i know how to use:  
   
-Python, Bash, PowerShell, C, JavaScript, PHP, SQL, Go, Ruby, Java, Assembly, Rust, TypeScript, Groovy, Kotlin, Swift  
+Python, Bash, PowerShell, C, JavaScript, PHP, SQL, Go, Ruby, Java, Assembly, Rust, TypeScript, Groovy, Kotlin, Swift, Godot
 
 Nmap, Metasploit, Burp Suite, Wireshark, Netcat, Gobuster, Dirsearch, Nikto, Hydra, John the Ripper, Hashcat, BloodHound, Impacket, CrackMapExec, Responder, Mimikatz, sqlmap, ffuf, Enum4linux, PowerView,Aircrack-ng, Bettercap, tcpdump, WPScan, Evil-WinRM, Kerbrute, Sublist3r, theHarvester, LinPEAS, WinPEAS  
 
