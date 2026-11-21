@@ -1,6 +1,6 @@
 # Gorr, AKA Alex
 
-**` Offensive security specialist `**
+**` Offensive security specialist & AI engineer`**
 
 I am not fancy, or a content creator, or anyone of notice really.  
 
